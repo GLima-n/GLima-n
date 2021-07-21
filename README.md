@@ -9,4 +9,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+</a>
+<a href="https://github.com/GLima-n/GLima-n">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GLima-n&show_icons=true&line_height=20&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=10bbc8a&bg_color=1d1f20" alt="GLima-n GitHub Stats" />
+
+<a href="https://github.com/GLima-n/GLima-n">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLima-n&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=10bbc8a&bg_color=1d1f21&langs_count=3" /> 
+  
+  
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gllima_n/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100004652708786)
+
