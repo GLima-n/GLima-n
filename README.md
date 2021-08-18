@@ -1,4 +1,4 @@
-### Olá! eu sou GLima-n
+### Olá! eu sou GLima-n 
 #
 <div>
   <a href="https://github.com/GLima-n">
@@ -7,7 +7,8 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  <img align="center" alt="java" height="30" width="40" src="https://www.flaticon.com/br/icone-gratis/java_226777?term=java&related_id=226777"> 
+  <img align="center" alt="java" height="30" width="30" src="https://image.flaticon.com/icons/png/512/226/226777.png"> 
+  <img align="center" alt="java" height="30" width="30" src="https://logodix.com/logo/2100309.png"> 
 </div>
   
   ##
