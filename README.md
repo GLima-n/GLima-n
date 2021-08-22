@@ -6,9 +6,10 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLima-n&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  <img align="center" alt="Cobol" height="30" width="30" src="https://logodix.com/logo/2100309.png"> 
   <img align="center" alt="java" height="30" width="30" src="https://image.flaticon.com/icons/png/512/226/226777.png"> 
-  <img align="center" alt="java" height="30" width="30" src="https://logodix.com/logo/2100309.png"> 
+  <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.discordapp.com/attachments/877312774684958751/879044647257780314/pngegg.png"> 
 </div>
   
   ##
