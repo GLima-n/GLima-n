@@ -9,7 +9,7 @@
   <img align="center" alt="Cobol" height="30" width="30" src="https://logodix.com/logo/2100309.png"> 
   <img align="center" alt="java" height="30" width="30" src="https://image.flaticon.com/icons/png/512/226/226777.png"> 
   <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.discordapp.com/attachments/877312774684958751/879044647257780314/pngegg.png"> 
-  <img align="center" alt="java" height="25" width="25" src="https://cdn.discordapp.com/attachments/881350414052782131/909964361194405948/pngaaa.com-5043320.png"> 
+  <img align="center" alt="Figma" height="20" width="20" src="https://cdn.discordapp.com/attachments/881350414052782131/909964361194405948/pngaaa.com-5043320.png"> 
 </div>
   
   ##
