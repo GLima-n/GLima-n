@@ -1,6 +1,6 @@
 ### Olá! eu sou Gabriel Nascimento 
 #
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="250" />
   
 - 💼 Vamos conversar?, [email](gabriellima9902@gmail.com) :)
 - 💬 Estou disponível em outros lugares também, [Links](https://beacons.ai/gllima_n)
