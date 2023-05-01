@@ -1,18 +1,24 @@
-### Olá! eu sou GLima-n 
+### Olá! eu sou Gabriel Nascimento 
 #
-<div>
-  <a href="https://github.com/GLima-n">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLima-n&layout=compact&langs_count=7&theme=dark"/>
-    
-</div>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-<div style="display: inline_block"><br>
+- 💼 Vamos conversar?, [email](gabriellima9902@gmail.com) :)
+- 💬 Estou disponível em outros lugares também, [Links](https://beacons.ai/gllima_n)
 
-  <img align="center" alt="Cloud" height="30" width="30" src="https://pypi.org/static/images/logo-small.95de8436.svg"> 
-  <img align="center" alt="Cloud" height="20" width="25" src="https://logodownload.org/wp-content/uploads/2021/06/google-cloud-logo-5.png">  
-  <img align="center" alt="Figma" height="20" width="20" src="https://cdn.discordapp.com/attachments/881350414052782131/909964361194405948/pngaaa.com-5043320.png"> 
-</div>
-  
-  ##
-  ![Snake animation](https://github.com/GLima-n/GLima-n/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+**languages and tools:**  
+
+<code><img height="20" src="https://cdn.discordapp.com/attachments/881350414052782131/1102458343261478932/pngwing.com_7.png"></code>
+<code><img height="20" src="https://cdn.discordapp.com/attachments/881350414052782131/1102456777037074482/pngwing.com_1.png"></code>
+<code><img height="20" src="https://cdn.discordapp.com/attachments/881350414052782131/1102456778467319928/pngwing.com_5.png"></code>
+<code><img height="20" src="https://cdn.discordapp.com/attachments/881350414052782131/1102456778203070464/pngwing.com_4.png"></code>
+<code><img height="20" src="https://cdn.discordapp.com/attachments/881350414052782131/1102456777250963567/pngwing.com.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://cdn.discordapp.com/attachments/881350414052782131/1102456777578127370/pngwing.com_2.png"></code>
+<code><img height="20" src="https://cdn.discordapp.com/attachments/881350414052782131/1102456777980792872/pngwing.com_3.png"></code>
+<code><img height="20" src="https://cdn.discordapp.com/attachments/881350414052782131/1102458779838185522/pngwing.com_8.png"></code>
+<code><img height="20" src="https://cdn.discordapp.com/attachments/881350414052782131/1102459588697128980/pngwing.com_10.png"></code>
+
+📊 **Esta semana pasé mi tiempo en:**
+<!--START_SECTION:waka-->
+
