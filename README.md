@@ -2,7 +2,7 @@
 #
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="250" />
   
-- 💼 Vamos conversar?, <a href = "mailto:cmp.1a.gabriellima9902@gmail.com">email</a> :)
+- 💼 Vamos conversar?, <a href = "gabriellima9902@gmail.com">email</a> :)
 - 💬 Estou disponível em outros lugares também, [Links](https://beacons.ai/gllima_n)
 
 
