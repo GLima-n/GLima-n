@@ -22,4 +22,3 @@
 📊 **Esta semana pasé mi tiempo en:**
 <!--START_SECTION:waka-->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GLima-n&bg_color=0d1017&color=19a2d0&line=19a2d0&point=003140&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
