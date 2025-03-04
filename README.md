@@ -2,7 +2,7 @@
 #
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="250" /> 
   
-- 💼 Let's talk?, [Enviar E-mail](mailto:exemplo@email.com?subject=Assunto%20do%20Email&body=Mensagem%20aqui)👈
+- 💼 Let's talk?, [Enviar E-mail](mailto:gabriellima9902@gmail.com.com?subject=Assunto%20do%20Email&body=Mensagem%20aqui)👈
 
 
 **languages and tools:**  
