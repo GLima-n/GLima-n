@@ -2,7 +2,7 @@
 # Gabriel Nascimento 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="250" /> 
   
- [![Gmail Badge](https://img.shields.io/badge/-gabriellima@vianaemoura.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriellima@vianaemoura.com.br)](mailto:gabriellima@vianaemoura.com.br) [![Gmail Badge](https://img.shields.io/badge/-gabriellima9902@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:gabriellima9902@gmail.com)](mailto:gabriellima9902@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gabriellima@vianaemoura.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriellima@vianaemoura.com.br)](mailto:gabriellima@vianaemoura.com.br) [![Gmail Badge](https://img.shields.io/badge/-gabriellima9902@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriellima9902@gmail.com)](mailto:gabriellima9902@gmail.com)
 
 
 
