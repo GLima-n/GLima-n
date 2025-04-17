@@ -1,8 +1,8 @@
-### Olá! eu sou Gabriel Nascimento 
-#
+### Hi there! 👋
+# Gabriel Nascimento 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="250" /> 
   
-- 💼 Let's talk?, [Enviar E-mail](mailto:gabriellima9902@gmail.com.com?subject=Assunto%20do%20Email&body=Mensagem%20aqui)👈
+ [![Gmail Badge](https://img.shields.io/badge/-gabriellima@vianaemoura.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriellima@vianaemoura.com.br)](mailto:gabriellima@vianaemoura.com.br) [![Gmail Badge](https://img.shields.io/badge/-gabriellima9902@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:gabriellima9902@gmail.com)](mailto:gabriellima9902@gmail.com)
 
 
 
@@ -20,13 +20,11 @@
 
 [![Lattes Badge](https://img.shields.io/badge/-CNPq%20Lattes-green?style=flat-square&labelColor=grey&color=blue&link=http://lattes.cnpq.br/2052605083076286)](http://lattes.cnpq.br/0800168604576023)
 [![ORCID Badge](https://img.shields.io/badge/-ORCID-green?style=flat-square&labelColor=grey&color=green&link=https://orcid.org/0000-0002-8984-4001)](https://orcid.org/0009-0007-8771-7336)
+
 <details>
 
-
-
-
-
- Bibliographical Production 📈
+#
+- Bibliographical Production 📈
 
 > COSTA, WELLEN CARLA DA LUZ BENFICA ; FIGUEIREDO, NILCEMA ; COSTA, VALÉRIA FERNANDES CARVALHO ; CHAVES, AMANDA MARIA ; NASCIMENTO, GABRIEL DE LIMA ; GUIMARÃES, RAFAEL ALVES . GestBucalSD: assessment of user satisfaction in oral health via digital platform. journal of health informatics, v. 16, p. 1262, 2024. [GestBucalSD: evaluation of user satisfaction in oral health through a digital platform](https://doi.org/10.59681/2175-4411.v16.iEspecial.2024.1262). Keywords: User Satisfaction, Oral Health Services, Primary Health Care. 
 
