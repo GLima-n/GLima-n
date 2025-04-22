@@ -8,6 +8,7 @@
 
 **languages and tools:**  
 
+<code><img height="20" src="https://cdn.discordapp.com/attachments/1346496902182731822/1364061394651316304/pngwing.com_1.png?ex=68084cab&is=6806fb2b&hm=f6eb50330b0917c573a368b6d9c9ee0059870616cca959c06ecb39c89bf826c5&"></code>
 <code><img height="20" src="https://img.icons8.com/fluent/200/docker.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019–present%29.svg/2203px-Microsoft_Office_Excel_%282019–present%29.svg.png"></code>
