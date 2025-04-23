@@ -8,11 +8,11 @@
 
 **languages and tools:**  
 
-<code><img height="20" src="https://cdn.discordapp.com/attachments/1346496902182731822/1364061394651316304/pngwing.com_1.png?ex=68084cab&is=6806fb2b&hm=f6eb50330b0917c573a368b6d9c9ee0059870616cca959c06ecb39c89bf826c5&"></code>
+<code><img height="20" src="https://imgs.search.brave.com/YZM4zgAvQM_hoitz-usX5GJaSQ-UPZN87I6nAGt8luA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8z/LzMzL0ZpZ21hLWxv/Z28uc3Zn"></code>
 <code><img height="20" src="https://img.icons8.com/fluent/200/docker.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019–present%29.svg/2203px-Microsoft_Office_Excel_%282019–present%29.svg.png"></code>
-<code><img height="20" src="https://cdn.discordapp.com/attachments/1346496902182731822/1364055849433301203/ng4jl4wtren4lh40vz9nav9s6fiz.webp?ex=68084781&is=6806f601&hm=e94f7476022a915483cfc7034c120a0940f7183323cdc86b1c683b2374c6c1a5&"></code>
+<code><img height="20" src="https://imgs.search.brave.com/y-ylzWw8prGgeEn2QbCLizMklfkTtqwgnWO8rH4I7bo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NmL05ld19Qb3dl/cl9CSV9Mb2dvLnN2/Zw"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 </details>
 
