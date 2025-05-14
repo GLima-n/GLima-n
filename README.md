@@ -11,7 +11,7 @@
 <code><img height="20" src="https://imgs.search.brave.com/YZM4zgAvQM_hoitz-usX5GJaSQ-UPZN87I6nAGt8luA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8z/LzMzL0ZpZ21hLWxv/Z28uc3Zn"></code>
 <code><img height="20" src="https://img.icons8.com/fluent/200/docker.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019–present%29.svg/2203px-Microsoft_Office_Excel_%282019–present%29.svg.png"></code>
+<code><img height="18" src="https://imgs.search.brave.com/2pHBtWORl7IWRnrjHo8qq2V9_Du2o3DeTyLHDMx8JcE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9maWxlLXR5/cGUtdmJhLWljb24t/MTAyNHg1NzItYnow/ZDdxZHgucG5n"></code>
 <code><img height="20" src="https://imgs.search.brave.com/y-ylzWw8prGgeEn2QbCLizMklfkTtqwgnWO8rH4I7bo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NmL05ld19Qb3dl/cl9CSV9Mb2dvLnN2/Zw"></code>
 <code><img height="20" src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png"></code>
 </details>
