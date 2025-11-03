@@ -10,7 +10,7 @@
 
 <code><img height="20" src="https://imgs.search.brave.com/YZM4zgAvQM_hoitz-usX5GJaSQ-UPZN87I6nAGt8luA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8z/LzMzL0ZpZ21hLWxv/Z28uc3Zn"></code>
 <code><img height="20" src="https://honeyviper.com/images/excel-slider2.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png"></code>
+<code><img height="25" src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxvHMT0riO5Ze2r4kAINc_2STQcLcZuOqRZaG8N9OjZHgGMFrecvForPWdXRDINuvlinpo1tC3wB4lorasSfch9U-&format=source"></code>
 <code><img height="25" src="https://img.icons8.com/color/200/streamlit.png"></code>
 <code><img height="20" src="https://imgs.search.brave.com/y-ylzWw8prGgeEn2QbCLizMklfkTtqwgnWO8rH4I7bo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NmL05ld19Qb3dl/cl9CSV9Mb2dvLnN2/Zw"></code>
 <code><img height="20" src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png"></code>
